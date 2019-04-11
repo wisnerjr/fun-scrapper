@@ -1,0 +1,29 @@
+{
+  "name": "fun-scrapper",
+  "version": "1.0.0",
+  "description": "fun scrapper :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisnerjr/fun-scrapper.git"
+  },
+  "keywords": [
+    "scrapper;",
+    "puppeteer"
+  ],
+  "author": "Wisner Júnior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisnerjr/fun-scrapper/issues"
+  },
+  "homepage": "https://github.com/wisnerjr/fun-scrapper#readme",
+  "dependencies": {
+    "puppeteer-core": "^1.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.2"
+  }
+}
